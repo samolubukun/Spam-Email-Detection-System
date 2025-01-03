@@ -28,7 +28,7 @@ To view and run the Jupyter notebook, click [here](https://github.com/samolubuku
    - Open a terminal in the project folder (or use the terminal in your IDE).
    - Run the following command to install the required libraries:
      ```bash
-     pip install streamlit scikit-learn
+     pip install streamlit scikit-learn numpy
      ```
 
 4. **Run the Application**
