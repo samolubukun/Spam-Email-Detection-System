@@ -41,4 +41,4 @@ if st.button("Detect"):
 
 # Footer
 st.write("---")
-st.write("Spam Email Detection System| Powered by Machine Learning")
+st.write("Spam Email Detection System | Powered by Machine Learning")
