@@ -39,5 +39,5 @@ To view and run the Jupyter notebook, click [here](https://github.com/samolubuku
 
 5. **Access the App in Your Browser**
    - After running the command, a link will appear in the terminal (e.g., `http://localhost:8501`).
-   - Open the link in your web browser to access the **Spam Email Classifier** app.
+   - Open the link in your web browser to access the **Spam Email Detection** app.
 
